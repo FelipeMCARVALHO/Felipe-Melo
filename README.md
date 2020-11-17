@@ -6,7 +6,7 @@
   "websites": [
     {
       "url": "https://www.patreon.com/kevdev",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 15
     }
   ]
